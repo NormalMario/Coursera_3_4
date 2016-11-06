@@ -7,12 +7,12 @@ output: pdf_document
 
 ## Files
 
-run_analysis.R : includes all the R code used to produce results
+####run_analysis.R : includes all the R code used to produce results
 	code is documented/commented so please look there for more.
 	
-codebook.txt, codebook.md : includes codebook of tidy2.txt
+####codebook.md : includes codebook of tidy2.txt
 
-tidy2.txt: includes tidy data for id * activity uinits and 66 measures
+####tidy2.txt: includes tidy data for id * activity uinits and 66 measures
 
 ## Task
 
